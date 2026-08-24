@@ -3,8 +3,7 @@
 
 ## Project Overview
 
-This project was completed as part of my **Data Analytics Internshi
-p at Veda Technology**.
+This project was completed as part of my **Data Analytics Internship at Veda Technology**.
 
 The project focuses on analyzing business performance using the **Sample Superstore dataset** and creating an interactive **Power BI dashboard** to identify key business trends, performance indicators, and actionable insights.
 
